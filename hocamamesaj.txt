@@ -1,0 +1,1 @@
+Merhaba hocam. BTK Akademi Git ve Github eğitiminizi izliyorum. Eğitimizdeki uzaktan uygulamaları yapabilmek için repolarınızda denemeGit reposu aradım bulamadım :( Bu reponuzu kullanıp şu anda Fork , clone ve Pull reguest konularını uygulama yapıyorum. Eğer hatasız yaparsam bu mesajı size pull reguest etmiş olacağım. 
